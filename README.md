@@ -45,17 +45,17 @@
             <h2>Top Tips for New Players</h2>
             <div class="tips-container">
                 <div class="tip">
-                    <img src="/img/sc1.jpg" alt="Tip 1 Image">
+                    <img src="img/sc1.jpg" alt="Tip 1 Image">
                     <h3>Explore Everything</h3>
                     <p>Don't rush the main quest. Exploring the world can lead to valuable items and skills.</p>
                 </div>
                 <div class="tip">
-                    <img src="/img/sc2.jpg" alt="Tip 2 Image">
+                    <img src="img/sc2.jpg" alt="Tip 2 Image">
                     <h3>Master the Combat</h3>
                     <p>Timing is crucial. Learn enemy patterns and use your shield wisely.</p>
                 </div>
                 <div class="tip">
-                    <img src="/img/sc3.png" alt="Tip 3 Image">
+                    <img src="img/sc3.png" alt="Tip 3 Image">
                     <h3>Use Your Environment</h3>
                     <p>Take advantage of high ground, hiding spots, and environmental traps to defeat enemies.</p>
                 </div>
@@ -65,17 +65,17 @@
     <h2>Recommended Builds</h2>
     <div class="builds-container">
         <div class="build">
-            <img src="/img/strength.png" alt="Strength Build Image">
+            <img src="img/strength.png" alt="Strength Build Image">
             <h3>Strength Build</h3>
             <p>Focus on heavy weapons and high damage output. Suitable for players who prefer brute force and powerful strikes.</p>
         </div>
         <div class="build">
-            <img src="/img/dex.png" alt="Dexterity Build Image">
+            <img src="img/dex.png" alt="Dexterity Build Image">
             <h3>Dexterity Build</h3>
             <p>Swift attacks and evasion, perfect for agile players who like to dodge and strike quickly.</p>
         </div>
         <div class="build">
-            <img src="/img/magic.png" alt="Magic Build Image">
+            <img src="img/magic.png" alt="Magic Build Image">
             <h3>Magic Build</h3>
             <p>Harness the power of sorcery to defeat foes from a distance. Ideal for players who prefer casting spells.</p>
         </div>
